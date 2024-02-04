@@ -7,3 +7,7 @@ Dataset: The Framingham Heart Study is a longitudinal dataset of 4,000+ records 
 
 # TASK 2: SPAM DETECTION USING TENSORFLOW IN PYTHON
 Objective: The objective of this task is to build a Machine learning model to detect spam emails.
+
+# Task 3 : House Price Prediction Using Machine Learning
+
+Objective: The objective of this task is to build a machine learning model to predict house prices using the House Price Prediction Dataset.
